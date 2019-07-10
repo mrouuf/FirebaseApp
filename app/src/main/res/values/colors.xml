@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPertama">#fcf9ec</color>
+    <color name="colorKedua">#b0f4e6</color>
+    <color name="colorKetiga">#67eaca</color>
+    <color name="colorKeempat">#12d3cf</color>
+    <color name="putih">#ffff</color>
+</resources>

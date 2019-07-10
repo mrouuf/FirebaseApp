@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+    <string name="nama">Nama Karyawan</string>
+    <string name="divisi">Divisi Karyawan</string>
+    <string name="gaji">Gaji Karyawan</string>
+    <string name="blank">This field is required</string>
+</resources>
